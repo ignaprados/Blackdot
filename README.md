@@ -3,7 +3,7 @@
 
 # Blackdot Theme
 
-Minimal, beautiful and black theme for VS Code. - 
+Minimal, beautiful and black theme for VS Code • 
 [Blackdot](https://blackdot.vercel.app)
 
 ## For more information
