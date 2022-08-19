@@ -1,0 +1,26 @@
+{
+  "name": "blackdot",
+  "displayName": "Blackdot",
+  "description": "We love black. Beautiful and simple.",
+  "version": "1.0.0",
+  "publisher": "ignaprados",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blackdot",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blackdot-color-theme.json"
+      }
+    ]
+  }
+}
