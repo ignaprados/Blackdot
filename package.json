@@ -4,6 +4,7 @@
   "description": "Minimal, beautiful and black theme for VS Code.",
   "version": "1.0.0",
   "publisher": "ignaprados",
+  "icon": "https://raw.githubusercontent.com/IgnacioPrados/BlackdotWeb/main/assets/img/logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/IgnacioPrados/Blackdot"
