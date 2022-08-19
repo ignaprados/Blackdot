@@ -5,9 +5,18 @@
   "version": "1.3.0",
   "publisher": "ignaprados",
   "icon": "images/logo.png",
+  "homepage": "https://blackdot.vercel.app",
   "repository": {
     "type": "git",
     "url": "https://github.com/IgnacioPrados/Blackdot"
+  },
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "bugs": {
+    "url": "https://github.com/IgnacioPrados/Blackdot/issues",
+    "email": "ignacioprados.ip@gmail.com"
   },
   "keywords": [
     "black",
