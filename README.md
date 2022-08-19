@@ -11,4 +11,4 @@ Minimal, beautiful and black theme for VS Code •
 * [Visit my website](https://ignacioprados.vercel.app)
 * [Follow me on LinkedIn](https://www.linkedin.com/in/ignacioprados/)
 
-> © 2022 Made by IgnacioPrados
+> Made by IgnacioPrados
