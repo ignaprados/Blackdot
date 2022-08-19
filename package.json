@@ -6,8 +6,19 @@
   "publisher": "ignaprados",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/IgnacioPrados/Blackdot"
   },
+  "keywords": [
+    "black",
+    "theme",
+    "dark theme",
+    "dark",
+    "ignaprados",
+    "ignacio prados",
+    "ignadev",
+    "simple",
+    "minimal"
+  ],
   "engines": {
     "vscode": "^1.70.0"
   },

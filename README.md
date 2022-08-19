@@ -1,16 +1,13 @@
-# blackdot README
 
-## Working with Markdown
+![banner](https://raw.githubusercontent.com/IgnacioPrados/BlackdotWeb/main/assets/img/preview.jpg)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+# Blackdot Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Minimal, beautiful and black theme for VS Code.
 
 ## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* [Visit my website](https://ignacioprados.vercel.app)
+* [Follow me on LinkedIn](https://www.linkedin.com/in/ignacioprados/)
 
-**Enjoy!**
+> © 2022 Made by IgnacioPrados
