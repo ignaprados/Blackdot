@@ -11,4 +11,4 @@ Minimal, beautiful and black theme for VS Code •
 * [Visit my website](https://ignaprados.com)
 * [Follow me on LinkedIn](https://www.linkedin.com/in/ignaprados/)
 
-> Made by IgnacioPrados
+> Made by @ignaprados
